@@ -8,4 +8,30 @@ CNN Model: https://huggingface.co/muizzkhan0/AutonomousDroneLineFollower
 Training Dataset: https://huggingface.co/datasets/muizzkhan0/AutonomousDroneLineFollower
 
 ## Dataset
-A custom dataset was collecting using the drone's onboard camera itself. The data was then organized into six classes: No Line, Straight, Move Left, Turn Left, Move Right, Turn Right. The dataset collected can be found at ![Link](https://huggingface.co/datasets/muizzkhan0/AutonomousDroneLineFollower) https://huggingface.co/datasets/muizzkhan0/AutonomousDroneLineFollower.
+A custom dataset was collecting using the drone's onboard camera itself. The data was then organized into six classes: Straight, Turn Left, Move Left, Turn Right, Move Right, Straight. The dataset collected can be found at https://huggingface.co/datasets/muizzkhan0/AutonomousDroneLineFollower.
+The data was randomly split 70-20-10 for training/validation/test.
+Before training the data set was normalized and converted to grayscale.
+<table>
+  <tr>
+    <th>Straight</th>
+    <th>Turn Left</th>
+    <th>Move Left</th>
+    <th>Turn Right</th>
+    <th>Move Right</th>
+    <th>No Line</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/muizzkhan0/AutonomousDroneLineFollower/blob/main/Images/image18.jpg" width="120"/></td>
+    <td><img src="https://github.com/muizzkhan0/AutonomousDroneLineFollower/blob/main/Images/image14.jpg" width="120"/></td>
+    <td><img src="https://github.com/muizzkhan0/AutonomousDroneLineFollower/blob/main/Images/image9.jpg" width="120"/></td>
+    <td><img src="https://github.com/muizzkhan0/AutonomousDroneLineFollower/blob/main/Images/image11.jpg" width="120"/></td>
+    <td><img src="https://github.com/muizzkhan0/AutonomousDroneLineFollower/blob/main/Images/image15.jpg" width="120"/></td>
+    <td><img src="https://github.com/muizzkhan0/AutonomousDroneLineFollower/blob/main/Images/image8.jpg" width="120"/></td>
+  </tr>
+</table>
+
+
+## Model Architecture
+
+![Image](https://github.com/muizzkhan0/AutonomousDroneLineFollower/blob/main/Images/image17.png?raw=true)
+
