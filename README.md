@@ -33,5 +33,8 @@ Before training the data set was normalized and converted to grayscale.
 
 ## Model Architecture
 
-![Image](https://github.com/muizzkhan0/AutonomousDroneLineFollower/blob/main/Images/image17.png?raw=true)
+<p align="center">
+  <img src="https://github.com/muizzkhan0/AutonomousDroneLineFollower/blob/main/Images/image17.png?raw=true" width="600"/>
+</p>
+
 
