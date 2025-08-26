@@ -26,7 +26,7 @@ Before training the data set was normalized and converted to grayscale.
     <td><img src="https://github.com/muizzkhan0/AutonomousDroneLineFollower/blob/main/Images/image9.jpg" width="120"/></td>
     <td><img src="https://github.com/muizzkhan0/AutonomousDroneLineFollower/blob/main/Images/image11.jpg" width="120"/></td>
     <td><img src="https://github.com/muizzkhan0/AutonomousDroneLineFollower/blob/main/Images/image15.jpg" width="120"/></td>
-    <td><img src="https://github.com/muizzkhan0/AutonomousDroneLineFollower/blob/main/Images/image8.jpg" width="120"/></td>
+    <td><img src="https://github.com/muizzkhan0/AutonomousDroneLineFollower/blob/main/Images/image8.png" width="120"/></td>
   </tr>
 </table>
 
