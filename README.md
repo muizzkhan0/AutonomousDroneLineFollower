@@ -3,7 +3,12 @@ This project uses a **Convolutional Neural Network (CNN)** to enable a drone to 
 
 This project works in conjunction with the Tello drone from Ryze Robotics. Images are captured with the drone's on-board camera. These pictures are sent to the computer via WiFi where an inference is made using the CNN model. According to the inference made, a directional command is sent back to the drone.
 
-Demo: https://www.youtube.com/watch?v=ismJeOGh_W8
+Demo: https://www.youtube.com/watch?v=ismJeOGh_W8  
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=ismJeOGh_W8">
+    <img src="https://img.youtube.com/vi/K-_hVV_IY0s/0.jpg" alt="Watch the video" />
+  </a>
+</p>
 
 Useful links:
 CNN Model: https://huggingface.co/muizzkhan0/AutonomousDroneLineFollower  
