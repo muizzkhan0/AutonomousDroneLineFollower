@@ -11,7 +11,7 @@ Training Dataset: https://huggingface.co/datasets/muizzkhan0/AutonomousDroneLine
 A custom dataset was collecting using the drone's onboard camera itself. The data was then organized into six classes: Straight, Turn Left, Move Left, Turn Right, Move Right, Straight. The dataset collected can be found at https://huggingface.co/datasets/muizzkhan0/AutonomousDroneLineFollower.
 The data was randomly split 70-20-10 for training/validation/test.
 Before training the data set was normalized and converted to grayscale.
-<table>
+<table align="center">
   <tr>
     <th>Straight</th>
     <th>Turn Left</th>
