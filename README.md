@@ -6,7 +6,7 @@ This project works in conjunction with the Tello drone from Ryze Robotics. Image
 Demo: https://www.youtube.com/watch?v=ismJeOGh_W8  
 <p align="center">
   <a href="https://www.youtube.com/watch?v=ismJeOGh_W8">
-    <img src="https://img.youtube.com/vi/K-_hVV_IY0s/0.jpg" alt="Watch the video" />
+    <img src="https://img.youtube.com/vi/ismJeOGh_W8/0.jpg" alt="Watch the video" />
   </a>
 </p>
 
