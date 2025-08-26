@@ -37,4 +37,8 @@ Before training the data set was normalized and converted to grayscale.
   <img src="https://github.com/muizzkhan0/AutonomousDroneLineFollower/blob/main/Images/image17.png?raw=true" width="600"/>
 </p>
 
+## Results
 
+<p align="center">
+  <img src="https://github.com/muizzkhan0/AutonomousDroneLineFollower/blob/main/Images/image10.png" width="600"/>
+</p>
